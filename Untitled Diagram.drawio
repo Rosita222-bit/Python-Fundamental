@@ -1,1 +1,169 @@
-<mxfile host="app.diagrams.net" modified="2021-11-11T14:24:42.114Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" version="15.7.3" etag="PlWnFTliHtk1tk5RuVb3" type="github"><diagram id="Z8oSRFcc_TdXN1HYZ3Sa">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-11T15:00:24.869Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="4jbkE7ulQXQ6X4A_C6V0" version="15.7.3" type="github">
+  <diagram id="Z8oSRFcc_TdXN1HYZ3Sa" name="Page-1">
+    <mxGraphModel dx="782" dy="371" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YhBhr4THMw6StiY5WyYQ-3" value="Birthday Party" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="170" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YhBhr4THMw6StiY5WyYQ-9" value="invite guests" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="320" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YhBhr4THMw6StiY5WyYQ-10" value="make a cake" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="360" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YhBhr4THMw6StiY5WyYQ-12" value="clean the house" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="400" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YhBhr4THMw6StiY5WyYQ-13" value="prepare the foods" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="440" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YhBhr4THMw6StiY5WyYQ-14" value="make a list of guests" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="480" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YhBhr4THMw6StiY5WyYQ-25" value="go to the grocery" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="520" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YhBhr4THMw6StiY5WyYQ-31" value="Task 1 ( inviting guests)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="200" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YhBhr4THMw6StiY5WyYQ-33" value="write all the names" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="YhBhr4THMw6StiY5WyYQ-31">
+          <mxGeometry y="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YhBhr4THMw6StiY5WyYQ-34" value="sort the names by categores" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="YhBhr4THMw6StiY5WyYQ-31">
+          <mxGeometry y="60" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YhBhr4THMw6StiY5WyYQ-37" value="make invitations based on &#xa;categories" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="YhBhr4THMw6StiY5WyYQ-31">
+          <mxGeometry y="90" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YhBhr4THMw6StiY5WyYQ-38" value="Task 2 ( preparing the foods)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="340" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YhBhr4THMw6StiY5WyYQ-39" value="make a list what to buy" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="YhBhr4THMw6StiY5WyYQ-38">
+          <mxGeometry y="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YhBhr4THMw6StiY5WyYQ-40" value="go to grocery" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="YhBhr4THMw6StiY5WyYQ-38">
+          <mxGeometry y="60" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YhBhr4THMw6StiY5WyYQ-41" value="cook the foods" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="YhBhr4THMw6StiY5WyYQ-38">
+          <mxGeometry y="90" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YhBhr4THMw6StiY5WyYQ-42" value="Task 3 ( clean the house)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="480" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YhBhr4THMw6StiY5WyYQ-43" value="sweep the floor" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="YhBhr4THMw6StiY5WyYQ-42">
+          <mxGeometry y="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YhBhr4THMw6StiY5WyYQ-44" value="setting desk and chair" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="YhBhr4THMw6StiY5WyYQ-42">
+          <mxGeometry y="60" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YhBhr4THMw6StiY5WyYQ-46" value="Task 4 ( making a cake)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="580" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="YhBhr4THMw6StiY5WyYQ-47" value="get the cake recipe" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="YhBhr4THMw6StiY5WyYQ-46">
+          <mxGeometry y="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YhBhr4THMw6StiY5WyYQ-48" value="go to the grocery" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="YhBhr4THMw6StiY5WyYQ-46">
+          <mxGeometry y="60" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YhBhr4THMw6StiY5WyYQ-49" value="design the cake" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="YhBhr4THMw6StiY5WyYQ-46">
+          <mxGeometry y="90" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YhBhr4THMw6StiY5WyYQ-50" value="bake the cake" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="YhBhr4THMw6StiY5WyYQ-46">
+          <mxGeometry y="120" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YhBhr4THMw6StiY5WyYQ-51" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="340" as="sourcePoint" />
+            <mxPoint x="350" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YhBhr4THMw6StiY5WyYQ-52" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="YhBhr4THMw6StiY5WyYQ-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="500" as="sourcePoint" />
+            <mxPoint x="340" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YhBhr4THMw6StiY5WyYQ-54" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="460" as="sourcePoint" />
+            <mxPoint x="350" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YhBhr4THMw6StiY5WyYQ-55" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="YhBhr4THMw6StiY5WyYQ-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="245" y="540" as="sourcePoint" />
+            <mxPoint x="345" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YhBhr4THMw6StiY5WyYQ-15" value="&lt;span&gt;go to the grocery&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="410" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YhBhr4THMw6StiY5WyYQ-21" value="Invite guest" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="300" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YhBhr4THMw6StiY5WyYQ-22" value="make a list of guest" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="330" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YhBhr4THMw6StiY5WyYQ-23" value="prepare the foods" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="380" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YhBhr4THMw6StiY5WyYQ-26" value="clean the house" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="460" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YhBhr4THMw6StiY5WyYQ-28" value="make a cake" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="500" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YhBhr4THMw6StiY5WyYQ-29" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;go to the grocery&lt;/span&gt;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="530" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YhBhr4THMw6StiY5WyYQ-57" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="YhBhr4THMw6StiY5WyYQ-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="420" as="sourcePoint" />
+            <mxPoint x="350" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YhBhr4THMw6StiY5WyYQ-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="YhBhr4THMw6StiY5WyYQ-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="245" y="375" as="sourcePoint" />
+            <mxPoint x="350" y="515" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YhBhr4THMw6StiY5WyYQ-62" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="YhBhr4THMw6StiY5WyYQ-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="245" y="544.5" as="sourcePoint" />
+            <mxPoint x="315" y="544.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YhBhr4THMw6StiY5WyYQ-63" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.022;entryY=0.153;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="YhBhr4THMw6StiY5WyYQ-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="320" as="sourcePoint" />
+            <mxPoint x="580" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YhBhr4THMw6StiY5WyYQ-65" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="400" as="sourcePoint" />
+            <mxPoint x="590" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YhBhr4THMw6StiY5WyYQ-66" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.004;entryY=0.189;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="YhBhr4THMw6StiY5WyYQ-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="480" as="sourcePoint" />
+            <mxPoint x="580" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YhBhr4THMw6StiY5WyYQ-68" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.022;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="YhBhr4THMw6StiY5WyYQ-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="529.28" y="516.5" as="sourcePoint" />
+            <mxPoint x="590" y="533.51" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YhBhr4THMw6StiY5WyYQ-69" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/new-year-s-hand-drawn-basic/64/cake-128.png" vertex="1" parent="1">
+          <mxGeometry x="105" y="210" width="100" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
