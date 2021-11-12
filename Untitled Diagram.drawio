@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2021-11-12T04:43:15.382Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="4ipq5UvhFBTiJDVpKO3P" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-12T05:01:51.166Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="CaVdKq_-3q1RtWAKhoq8" version="15.7.3" type="github">
   <diagram id="Z8oSRFcc_TdXN1HYZ3Sa" name="Page-1">
-    <mxGraphModel dx="782" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="371" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XaydzStIWkiV39wB9qNz-27" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;fontSize=16;fontColor=default;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="90" width="750" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="XaydzStIWkiV39wB9qNz-24" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;labelBackgroundColor=default;labelBorderColor=none;fontSize=13;fontColor=default;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="340" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="YhBhr4THMw6StiY5WyYQ-9" value="invite guests" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="320" width="180" height="30" as="geometry" />
         </mxCell>
@@ -110,7 +116,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YhBhr4THMw6StiY5WyYQ-69" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/new-year-s-hand-drawn-basic/64/cake-128.png" parent="1" vertex="1">
-          <mxGeometry x="120" y="220" width="70" height="70" as="geometry" />
+          <mxGeometry x="120" y="230" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XaydzStIWkiV39wB9qNz-3" value="Identifying the unique tasks based on concerns.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="590" width="180" height="90" as="geometry" />
@@ -121,8 +127,8 @@
         <mxCell id="XaydzStIWkiV39wB9qNz-10" value="Wrapping each task in a function with a clear name and having a goal as an outcome" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="780" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="XaydzStIWkiV39wB9qNz-17" value="An illustration of the hierarchy of separation" style="rounded=0;fontSize=17;fontStyle=1;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="195" y="140" width="420" height="60" as="geometry" />
+        <mxCell id="XaydzStIWkiV39wB9qNz-17" value="An illustration of the hierarchy of separation &lt;br&gt;(in Python)" style="rounded=0;fontSize=16;fontStyle=1;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="215" y="120" width="420" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YhBhr4THMw6StiY5WyYQ-31" value="Task 1 ( inviting guests)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="590" y="250" width="180" height="90" as="geometry" />
@@ -183,6 +189,9 @@
             <mxPoint x="679.5" y="780" as="sourcePoint" />
             <mxPoint x="679.5" y="740" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XaydzStIWkiV39wB9qNz-26" value="The birthday party project" style="shape=process;whiteSpace=wrap;backgroundOutline=1;labelBackgroundColor=default;labelBorderColor=none;fontSize=13;fontColor=default;strokeColor=#000000;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="200" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
