@@ -104,5 +104,76 @@ cars.remove("xenia")
 print(cars)
 
 #Try it yourself 2
+dinner_guests =['Lisa', 'jennie', 'Jisoo', 'Rose']
+welcome = 'Welcome to our dinner party!'
+print(f"{welcome} {dinner_guests[0].title()}")
+print(f"{welcome} {dinner_guests[1].title()}")
+print(f"{welcome} {dinner_guests[2].title()}")
+print(f"{welcome} {dinner_guests[3].title()}")
+
+
+
+cancel_guest = 'Rose'
+dinner_guests.remove(cancel_guest)
+print(dinner_guests)
+
+dinner_guests.append('Seulgi')
+print(dinner_guests)
+dinner_guests.insert(1, 'Irene')
+print(dinner_guests)
+
+dinner_guests.insert(0, 'Joy')
+print(dinner_guests)
+dinner_guests.insert(-1,'yujin')
+print(dinner_guests)
+new_dinner_guests = dinner_guests.pop()
+print(new_dinner_guests)
+print(dinner_guests)
+
+#Shrinking guest list
+print(f"Sorry, we can only invite {dinner_guests[0].title()} and {dinner_guests[1].title()}")
+dinner_guests.pop(0)
+dinner_guests.pop(1)
+print(f"Waiting lists : {dinner_guests}")
+
+#Sorting a list with sort() method
+menus = ['toppoki', 'seblak', 'cimol', 'samgyeopsal', 'ayam betutu']
+menus.sort()
+print(f'the menu : {menus}')
+menus.sort(reverse=True)
+print(menus)
+
+#sorted() function
+print(f"SORTED() FUNCTION")
+print(f"Here is the original list:{menus}")
+print("\nHere is the sorted list:")
+print(sorted(menus))
+print("\nHere is the original list again:")
+print( menus)
+print(len(menus))
+
+#Try it yourself 3
+dream_place = ['london', 'seoul', 'tokyo', 'sydney', 'new zealand']
+print(dream_place)
+dream_place.sort(reverse=True)
+print(dream_place)
+print(sorted(dream_place))
+print(dream_place)
+print(len(dream_place))
+
+#Avoiding Index Errors
+print(f'Last place :{dream_place[-1]}')
+
+#working with list chapter 4
+print("\n-------------Working with Lists-----------------")
+marketPlaces = ['tokopedia', 'shopee', 'bibli', 'lazada', 'jdid']
+for m in marketPlaces :
+    print(m)
+
+for m in marketPlaces :
+    print(f'{m.title()}, is a great marketplace in Indonesia!')
+
+
+
 
 
