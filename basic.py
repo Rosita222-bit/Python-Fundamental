@@ -172,6 +172,74 @@ for m in marketPlaces :
 
 for m in marketPlaces :
     print(f'{m.title()}, is a great marketplace in Indonesia!')
+    print(f' I would love to shop in {m.title()}\n')
+
+nama_ayam = ['geprek', 'taliwang', 'betutu', 'kecap', 'asam manis']
+
+for ayam in nama_ayam :
+    print(f" I love {ayam}\n")
+print(f"I really love ayam!")
+
+for value in range ( 5) :
+    print(value)
+
+#using range() to make a list of Numbers
+numbers = list(range(1,5))
+print(numbers)
+
+even_numbers = list(range(2, 20, 5))
+print(even_numbers)
+
+triples =[]
+for value in range(1, 40):
+    triple = value ** 3
+    triples.append(triple)
+
+print(triples)
+
+digits = [11,4,5,6,8,5,4,3,2,4]
+print(min(digits))
+
+doubled = [val ** 4 for val in range(1,11) ]
+print(doubled)
+
+#try it yourself
+
+#for angka in range(1,21):
+#    print(angka)
+juta = list(range(1,1000000))
+print(min(juta))
+print(max(juta))
+print(sum(juta))
+
+#num = list(range(1,20,2))
+#for numb1 in num :
+ #   print(numb1)
+
+num3 =[]
+for angka3 in range(3,30) :
+    numb3 = angka3 * angka3
+    num3.append(numb3)
+
+print(num3)
+
+print("------------working with part if a list--------")
+players = ['rina', 'yuri', 'mashiro', 'yena', 'eunbi']
+print(players[1:4])
+print(players[:4])
+print(players[1:])
+print(players[-2:])
+
+#loopinng through a slice
+singers = ['denise', 'minji', 'dita', 'soodam', 'jinni']
+
+print("here are the last three singers on my team :")
+for singer in singers[-3:]:
+    print(singer.title())
+
+#copying a list
+
+
 
 
 
