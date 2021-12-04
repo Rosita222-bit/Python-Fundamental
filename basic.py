@@ -237,7 +237,42 @@ print("here are the last three singers on my team :")
 for singer in singers[-3:]:
     print(singer.title())
 
+
 #copying a list
+
+food = ['cake', 'salada', 'chicken', 'snack']
+copy_food = food[:]
+
+print(food, copy_food)
+
+#Try it yourself
+buffet_menu = ('fried rice', 'sate', 'sushi', 'cake')
+
+for menu in buffet_menu :
+    print(menu)
+
+buffet_menu = ('nasi kucing', 'bakso', 'sate', 'sushi')
+for menu in  buffet_menu :
+    print(menu)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
